@@ -10,6 +10,10 @@ For those interested in the previous editions and their resources, information c
 
 Join us as we delve deeper into the world of AI, building on the foundations laid in previous sessions and exploring the cutting-edge developments in this dynamic field.
 
+![Figure1](./figure1.png)
+![Figure2](./figure2.png)
+
+
 ## Program Highlights
 
 The Winter School kicked off with two weeks of lectures and workshops, covering a wide range of topics from AI fundamentals to advanced subjects. These sessions, detailed below, were crafted to provide participants with a comprehensive understanding of AI technologies and their real-world applications.
