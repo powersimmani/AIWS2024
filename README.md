@@ -10,8 +10,8 @@ For those interested in the previous editions and their resources, information c
 
 Join us as we delve deeper into the world of AI, building on the foundations laid in previous sessions and exploring the cutting-edge developments in this dynamic field.
 
-![Figure1](./figure1.png)
-![Figure2](./figure2.png)
+![Figure1](./Figure1.png)
+![Figure2](./Figure2.png)
 
 
 ## Program Highlights
