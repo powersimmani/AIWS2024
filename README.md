@@ -1,4 +1,4 @@
-# AI Winter School 2024 - 
+# AI Winter School 2024
 Organized by Ho-min Park (Ph.D. Student, Ghent University)
 
 We are thrilled to announce the GUGC AI Winter School 2024, following the resounding success of our AI Summer School 2023. This Winter School is designed as an intensive 6-week program from January 5th to February 18th, aimed at advancing the knowledge and application of artificial intelligence (AI) among participants. Our goal is to provide an enriching environment for both theoretical and practical learning, enabling participants to develop and refine their AI projects.
