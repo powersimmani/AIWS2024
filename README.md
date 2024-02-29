@@ -43,7 +43,7 @@ This schedule provided a structured and in-depth exploration of various AI topic
 
 Following the initial two weeks, participants engaged in a four-week self-study period, during which they worked individually or in teams on their AI projects. This phase encouraged participants to apply their acquired knowledge to practical challenges, fostering innovation and creativity.
 
-### Final Presentation (February 26 - 27th)
+### Final Presentation (February 26th - 27th)
 
 The program culminated in a two-day seminar of presentations, where each participant or team showcased their project outcomes alongside peers from other training programs within the same research center. This collaborative seminar provided an opportunity for a rich exchange of ideas, feedback, discussion, and recognition of the hard work and achievements of all involved.
 [Presentation Materials](https://github.com/powersimmani/RC4_IRTP_Seminar)
